@@ -330,8 +330,8 @@ const Project1 = () => (
     className="col-span-12 text-3xl leading-tight md:col-span-4"
   >
     <div>
-      Savor Oasis
-      <p className="text-zinc-500 text-xl">Restaurant Management Website</p>
+    Volunteer Voyage
+      <p className="text-zinc-500 text-xl">Volunteer Management Website</p>
       <div className="mt-2">
         <button
           onClick={() => document.getElementById("my_modal_3").showModal()}
@@ -358,7 +358,7 @@ const Project1 = () => (
               </button>
             </form>
             <Image
-              src="https://i.ibb.co/Y8KXckT/Screenshot-2024-06-17-160807.png"
+              src="https://i.ibb.co/vHVqwYB/vol.png"
               alt="something"
               priority={true}
               className="rounded-lg border border-[#0a0c0d] mt-6"
@@ -366,7 +366,7 @@ const Project1 = () => (
               height={1200} // Specify height attribute
             />
             <div className="py-4">
-              <p className="text-3xl text-monirWT1">Savor Oasis</p>
+              <p className="text-3xl text-monirWT1">Volunteer Voyage</p>
               <p className="text-xl mt-2 mb-4 text-zinc-500 ">Technologies:</p>
               <div className="text-[10px] md:text-sm text-zinc-500 text-center grid grid-cols-3 gap-2 mt-2">
                 <span className="bg-monirWT1 rounded-md px-2 py-1 text-monirBB1">
@@ -390,21 +390,21 @@ const Project1 = () => (
               </div>
               <div className="flex justify-between  mt-4">
                 <a
-                  href="https://savor-oasis.web.app/"
+                  href="https://volunteer-voyage.web.app/"
                   target="_blank"
                   className="flex w-4/12 justify-center items-center text-xs md:text-base gap-1 text-red-300 hover:underline"
                 >
                   Live Link <FiArrowRight />
                 </a>
                 <a
-                  href="https://github.com/md-maheen-billah/Assignment-11-client-side"
+                  href="https://github.com/monircom/volunteer-voyage-client"
                   target="_blank"
                   className="flex w-4/12 justify-center items-center text-xs md:text-base gap-1 text-red-300 hover:underline"
                 >
                   Client Repo <FiArrowRight />
                 </a>
                 <a
-                  href="https://github.com/md-maheen-billah/Assignment-11-server-side"
+                  href="https://github.com/monircom/volunteer-voyage-server"
                   target="_blank"
                   className="flex w-4/12 justify-center  items-center  text-xs md:text-base gap-1 text-red-300 hover:underline"
                 >
@@ -427,9 +427,9 @@ const Project2 = () => (
     className="col-span-12 text-3xl leading-tight md:col-span-4"
   >
     <div>
-      Canvas Isle
+    DESTINATION UNKNOWN
       <p className="text-zinc-500 text-xl">
-        Painting and Drawing Buy/Sell Website
+      where user can share their tourist spot with everyone.
       </p>
       <div className="mt-2">
         <button
@@ -457,7 +457,7 @@ const Project2 = () => (
               </button>
             </form>
             <Image
-              src="https://i.ibb.co/kHrGQ19/Screenshot-2024-06-17-175319.png"
+              src="https://i.ibb.co/d0xcjSj/dest.png"
               alt="something"
               priority={true}
               className="rounded-lg border border-[#0a0c0d] mt-6"
@@ -465,7 +465,7 @@ const Project2 = () => (
               height={1200} // Specify height attribute
             />
             <div className="py-4">
-              <p className="text-3xl text-monirWT1">Canvas Isle</p>
+              <p className="text-3xl text-monirWT1">DESTINATION UNKNOWN</p>
               <p className="text-xl mt-2 mb-4 text-zinc-500 ">Technologies:</p>
               <div className="text-[10px] md:text-sm text-zinc-500 text-center grid grid-cols-3 gap-2 mt-2">
                 <span className="bg-monirWT1 rounded-md px-2 py-1 text-monirBB1">
@@ -489,21 +489,21 @@ const Project2 = () => (
               </div>
               <div className="flex  justify-between  mt-4">
                 <a
-                  href="https://assignment-10-13166.web.app/"
+                  href="https://destination-unknown-ed9f8.web.app/"
                   target="_blank"
                   className="flex w-4/12 justify-center items-center text-xs md:text-base gap-1 text-red-300 hover:underline"
                 >
                   Live Link <FiArrowRight />
                 </a>
                 <a
-                  href="https://github.com/md-maheen-billah/Assignment-10-client-side"
+                  href="https://github.com/monircom/destination-unknown-client"
                   target="_blank"
                   className="flex w-4/12 justify-center items-center text-xs md:text-base gap-1 text-red-300 hover:underline"
                 >
                   Client Repo <FiArrowRight />
                 </a>
                 <a
-                  href="https://github.com/md-maheen-billah/Assignment-10-server-side"
+                  href="https://github.com/monircom/destination-unknown-server"
                   target="_blank"
                   className="flex w-4/12 justify-center items-center text-xs md:text-base gap-1 text-red-300 hover:underline"
                 >
